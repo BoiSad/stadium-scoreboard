@@ -1,4 +1,4 @@
-// Moduł wspólny: obsługa błędów i typy bazowe. Na razie pusty, kod pojawi się w kolejnych etapach.
+// Moduł wspólny: obsługa błędów i typy bazowe.
 plugins {
     alias(libs.plugins.kotlin.jvm)
 }

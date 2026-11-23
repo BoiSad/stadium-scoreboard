@@ -10,5 +10,7 @@ dependencyResolutionManagement {
 
 include(
     ":backend:common",
+    ":backend:matches",
+    ":backend:sponsors",
     ":backend:app",
 )
